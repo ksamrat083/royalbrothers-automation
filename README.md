@@ -110,6 +110,7 @@ Click Run
 -> No try/catch blocks used
 
 🧪 Sample Console Output
+--------------------------
 Bike Model: Royal Enfield Classic 350
 Available At: Indiranagar
 --------------------------
