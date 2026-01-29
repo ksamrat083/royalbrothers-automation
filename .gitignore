@@ -1,0 +1,5 @@
+target/
+.playwright/
+.idea/
+.vscode/
+*.log
